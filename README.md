@@ -1,1 +1,1 @@
-# KernelMethods_2021_DataChallenge
+# KernelMethods 2021 DataChallenge
