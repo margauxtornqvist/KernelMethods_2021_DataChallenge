@@ -7,5 +7,5 @@ The **save_kernels.py** pyhton script allows to compute and save Gram matrixes f
 The **submit.py** python script allows to reproduce one of our best results.
 
 **Note:**
-We couldn't upload the kernels used in submit.py in github due to their high volume. Please download them from this [drive link](https://drive.google.com/drive/folders/13GxnsUzbkxCF-PRXS0QhUcWTifSfUWRl?usp=sharing) and add the corresponding folder to the repository before running submit.py (Please note that once you click the link, left click on mykernels and choose download. You will get a zipped folder, unzip it and you should get a folder untitled "mykernels" that you should add to the repository to make sure the code will run correctly).
+We couldn't upload the kernels used in submit.py in github due to their high volume. Please download them from this [drive link](https://drive.google.com/drive/folders/13GxnsUzbkxCF-PRXS0QhUcWTifSfUWRl?usp=sharing) and add the corresponding folder to the repository before running submit.py (Please note that once you click the link, click on download all. You will get a zipped folder, unzip it and you should get a folder untitled "mykernels" that you should add to the repository to make sure the code will run correctly).
 Please note also that we provide directly the kernels because some of them are very time and computing power consuming (e.g. k=11).
